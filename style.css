@@ -5,6 +5,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  background-color: #000;
+  color: #fafafa;
+}
+
+#body {
+	background-color: #f00;
 }
 
 .container{
